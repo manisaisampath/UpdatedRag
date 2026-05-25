@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+langchain-core
+langchain-chroma
+chromadb
+sentence-transformers
+torch
+torchvision
+torchaudio
+beautifulsoup4
+lxml
+python-dotenv
