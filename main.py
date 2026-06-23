@@ -137,7 +137,7 @@ def generate(query):
 
     prompt = ChatPromptTemplate.from_template(
         """
-        You are a helpful real estate assistant.
+        
 
         Answer the question only from the provided context.
 
